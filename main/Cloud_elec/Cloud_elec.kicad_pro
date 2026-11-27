@@ -665,7 +665,7 @@
         "uuid": "59495d62-e914-4afa-8d9d-e5e2181fc1f8"
       }
     ],
-    "used_designators": "#PWR1-18,D1-5,J1,U1,low_DC_interface1",
+    "used_designators": "#PWR1-45,C1-3,D1-5,J1-11,Q1-3,R1-13,U1-5,high_AC_interface1,low_DC_interface1",
     "variants": []
   },
   "sheets": [

@@ -4034,7 +4034,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical"
-			(at 0 0 0)
+			(at 0.508 17.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -4045,7 +4045,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/ILI9341.pdf"
-			(at 0 0 0)
+			(at 0.508 17.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -4056,7 +4056,7 @@
 			)
 		)
 		(property "Description" "Écran TFT 2,8 pouces ILI9341 + tactile XPT2046 + slot microSD, module type MSP2807, 14 broches ; VCC = 5 V (rétroéclairage ~100 mA, JAMAIS depuis 3V3(OUT) du Pico) ; signaux logiques 3,3 V ; ORDRE DES BROCHES À VÉRIFIER sur le module réel au câblage"
-			(at 0 0 0)
+			(at 0.508 17.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
